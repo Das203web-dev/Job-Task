@@ -1,0 +1,32 @@
+[
+    {
+        "title": "The Ultimate Guide to Front-End Development",
+        "description": "Front-end development is a crucial part of web development, focusing on the user interface and user experience. This comprehensive guide covers everything from HTML and CSS basics to advanced JavaScript frameworks and libraries. You'll learn about responsive design, accessibility, and performance optimization, ensuring you can create stunning, user-friendly websites. Whether you're a beginner or an experienced developer, this guide has something for everyone.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Responsive Design",
+            "Accessibility",
+            "Performance Optimization",
+            "Web Development",
+            "Front-End"
+        ]
+    },
+    {
+        "title": "Mastering Back-End Development",
+        "description": "Back-end development is the backbone of any web application, handling server-side logic, database management, and integration with front-end services. This guide delves into the core technologies used in back-end development, including server-side languages like Node.js, Python, and Ruby, as well as databases such as MySQL, MongoDB, and PostgreSQL. You'll also learn about API design, security best practices, and deployment strategies. Perfect for developers looking to enhance their server-side skills and build robust, scalable applications.",
+        "tags": [
+            "Node.js",
+            "Python",
+            "Ruby",
+            "MySQL",
+            "MongoDB",
+            "PostgreSQL",
+            "API Design",
+            "Security",
+            "Deployment",
+            "Back-End"
+        ]
+    }
+]
